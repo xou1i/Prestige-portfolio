@@ -28,14 +28,14 @@
     <!-- Title -->
     <div class="text-center space-y-4">
       <h2
-        class="text-3xl md:text-4xl font-bold
+        class="text-3xl md:text-4xl font-poppins font-bold
                bg-gradient-to-r from-[#011E6C] to-[#1A3FA3]
                bg-clip-text text-transparent"
       >
         Experience
       </h2>
 
-      <p class="text-gray-600 text-lg">
+      <p class="font-poppins font-Medium text-gray-600 text-lg">
         A quick look at my design and programming journey.
       </p>
     </div>
@@ -53,28 +53,28 @@
 
   <div class="space-y-5">
 
-    <h3 class="text-xl md:text-2xl font-semibold text-[#FFB74D]">
+    <h3 class="font-poppins font-semibold text-xl md:text-2xl text-[#FFB74D]">
       Design Experience
     </h3>
 
-    <p class="text-gray-600 text-sm md:text-base leading-relaxed">
+    <p class="font-poppins font-Medium text-gray-600 text-sm md:text-base leading-relaxed">
       Focusing on branding, social media visuals, and digital content for different clients.
     </p>
 
     <!-- Item 1 -->
     <div class="space-y-1">
-      <p class="font-semibold text-[#011E6C]">
-        Freelance Designer <span class="text-gray-500 text-xs">(2025 – Present)</span>
+      <p class="font-poppins font-semibold text-[#011E6C]">
+        Freelance Designer <span class="font-poppins font-light text-gray-500 text-xs">(2025 – Present)</span>
       </p>
-      <p class="text-gray-600">Brand identities, social posts, and custom visuals for clients.</p>
+      <p class="font-poppins font-Medium text-gray-600">Brand identities, social posts, and custom visuals for clients.</p>
     </div>
 
     <!-- Item 2 -->
     <div class="space-y-1">
-      <p class="font-semibold text-[#011E6C]">
-        Mamame Co. <span class="text-gray-500 text-xs">(Jul 2025 – Oct 2025)</span>
+      <p class="font-poppins font-semibold text-[#011E6C]">
+        Mamame Co. <span class="font-poppins font-light text-gray-500 text-xs">(Jul 2025 – Oct 2025)</span>
       </p>
-      <p class="text-gray-600">Social Media Designs, UI Designs.</p>
+      <p class="font-poppins font-Medium text-gray-600">Social Media Designs, UI Designs.</p>
     </div>
 
   </div>
@@ -94,30 +94,30 @@
 
   <div class="space-y-5">
 
-    <h3 class="text-xl md:text-2xl font-semibold text-[#011E6C]">
+    <h3 class="font-poppins font-semibold text-xl md:text-2xl text-[#011E6C]">
       Programming Journey
     </h3>
 
-    <p class="text-gray-600 text-sm md:text-base leading-relaxed">
+    <p class="font-poppins font-Medium text-gray-600 text-sm md:text-base leading-relaxed">
       Learning to build clean user interfaces while studying Cybersecurity Engineering.
     </p>
 
     <!-- Item 1 -->
     <div class="space-y-1">
-      <p class="font-semibold text-[#011E6C]">Core Stack</p>
-      <p class="text-gray-600">HTML, Tailwind CSS, JavaScript basics, and Svelte components.</p>
+      <p class="font-poppins font-semibold text-[#011E6C]">Core Stack</p>
+      <p class="font-poppins font-Medium text-gray-600">HTML, Tailwind CSS, JavaScript basics, and Svelte components.</p>
     </div>
 
     <!-- Item 2 -->
     <div class="space-y-1">
-      <p class="font-semibold text-[#011E6C]">Projects</p>
-      <p class="text-gray-600">Todo App, Calculator, and Prestige portfolio.</p>
+      <p class="font-poppins font-semibold text-[#011E6C]">Projects</p>
+      <p class="font-poppins font-Medium text-gray-600">Todo App, Calculator, and Prestige portfolio.</p>
     </div>
 
     <!-- Item 3 -->
     <div class="space-y-1">
-      <p class="font-semibold text-[#011E6C]">Education</p>
-      <p class="text-gray-600">Cybersecurity Engineering (Sophomore) at Ashur University.</p>
+      <p class="font-poppins font-semibold text-[#011E6C]">Education</p>
+      <p class="font-poppins font-Medium text-gray-600">Cybersecurity Engineering (Sophomore) at Ashur University.</p>
     </div>
 
   </div>

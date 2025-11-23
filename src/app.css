@@ -1,4 +1,37 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap');
+
+
+/* ========== TAILWIND ========== */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Sooner';
+  src: url('assets/fonts/sooner.otf') format('opentype'),
+       
+}
+
 @import "https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css";
+
+
+
+
+@import "./fonts/poppins.css";           /* إذا عندك هذا للفونت الثاني */
+
+
+
+
+
+
+
+body {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+
 
 body {
   font-family: 'Helvetica Neue', sans-serif;

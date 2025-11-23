@@ -19,14 +19,14 @@
   <div class="max-w-3xl mx-auto px-6 text-center space-y-6">
 
     <!-- Title -->
-    <h1 class="hero-title text-4xl md:text-5xl font-extrabold 
-           bg-gradient-to-r from-[#011E6C] to-[#1A3FA3]
-           bg-clip-text text-transparent">
+    <h1 class="hero-title text-4xl md:text-5xl font-poppins font-black
+            bg-gradient-to-r from-[#011E6C] to-[#1A3FA3]
+            bg-clip-text text-transparent">
       Hi, I'm Ghaith
     </h1>
 
     <!-- Subtitle -->
-    <h2 class="hero-subtitle text-lg md:text-xl font-semibold text-gray-700 leading-relaxed">
+    <h2 class="hero-subtitle font-poppins font-bold text-lg md:text-xl font-semibold text-gray-700 leading-relaxed">
       Graphic Designer  • UI/UX Designer  • Front-End Developer
     </h2>
 
@@ -42,7 +42,7 @@
 
       <!-- Hire Me (Orange Gradient + Darker hover) -->
 <a href="#contact"
-   class="hero-btn px-8 py-3 rounded-full font-semibold text-white 
+   class="hero-btn px-8 py-3 rounded-full font-poppins font-bold text-white 
                bg-gradient-to-r from-[#FFB74D] to-[#FF9800]
                hover:from-[#F9A825] hover:to-[#EF6C00]
                shadow-md hover:shadow-xl 
@@ -57,7 +57,7 @@
 <!-- Download CV (Smooth Transition) -->
 <a href="https://drive.google.com/file/d/1Ns5dgEsToMufwIVVHtkovRkdy4-4mvrL/view?usp=sharing" 
    target="_blank" 
-   class="hero-btn px-8 py-3 rounded-full font-semibold 
+   class="hero-btn px-8 py-3 rounded-full font-poppins font-bold 
                border-2 border-[#011E6C] text-[#011E6C]
                bg-white
                hover:text-white 

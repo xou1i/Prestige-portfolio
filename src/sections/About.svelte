@@ -53,14 +53,14 @@
   <div class="max-w-4xl mx-auto px-6 text-center space-y-10">
 
     <!-- Title -->
-    <h2 class="about-title text-3xl md:text-4xl font-bold 
+    <h2 class="about-title text-3xl md:text-4xl font-poppins font-bold 
                bg-gradient-to-r from-[#011E6C] to-[#1A3FA3]
                bg-clip-text text-transparent">
       About Me
     </h2>
 
     <!-- Description -->
-    <p class="about-desc text-gray-600 text-lg leading-relaxed max-w-2xl mx-auto">
+    <p class="about-desc font-poppins font-Medium text-gray-600 text-lg leading-relaxed max-w-2xl mx-auto">
       A second-year Cybersecurity Engineering student who combines 
       visual design with modern front-end development to build clean and 
       meaningful digital experiences.
@@ -73,10 +73,10 @@
       <div class="about-card p-6 rounded-2xl shadow-[0_8px_32px_rgba(0,0,0,0.06)] 
                   bg-white border border-gray-100 hover:shadow-xl 
                   transition duration-300">
-        <h3 class="text-xl font-semibold text-[#011E6C] mb-2">
+        <h3 class="text-xl font-poppins font-bold text-[#011E6C] mb-2">
           Who Am I?
         </h3>
-        <p class="text-gray-600">
+        <p class="font-poppins font-Medium text-gray-600 text-left">
           A creative thinker who loves mixing design, technology, and 
           modern front-end techniques to craft expressive digital visuals.
         </p>
@@ -86,10 +86,10 @@
       <div class="about-card p-6 rounded-2xl shadow-[0_8px_32px_rgba(0,0,0,0.06)] 
                   bg-white border border-gray-100 hover:shadow-xl 
                   transition duration-300">
-        <h3 class="text-xl font-semibold text-[#011E6C] mb-2">
+        <h3 class="text-xl font-poppins font-bold text-[#011E6C] mb-2">
           What I Do?
         </h3>
-        <p class="text-gray-600">
+        <p class="font-poppins font-Medium text-gray-600 text-left">
           I design clean interfaces, craft engaging visuals, and build 
           modern, responsive, user-friendly websites.
         </p>

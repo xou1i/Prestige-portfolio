@@ -15,7 +15,7 @@
       When Design Meets Code !
     </p>
 
-    <p class="text-gray-500 text-sm font-medium">
+    <p class="text-gray-500 text-sm font-poppins font-Medium">
       © 2025 Prestige. All rights reserved.
     </p>
 

@@ -33,7 +33,7 @@
 
     <!-- Title -->
     <h2
-      class="text-3xl md:text-4xl font-bold 
+      class="text-3xl md:text-4xl font-poppins font-bold  
              bg-gradient-to-r from-[#011E6C] to-[#1A3FA3]
              bg-clip-text text-transparent"
     >
@@ -41,7 +41,7 @@
     </h2>
 
     <!-- Description -->
-    <p class="text-gray-600 text-lg leading-relaxed max-w-2xl mx-auto">
+    <p class="font-poppins font-Medium text-gray-600 text-lg leading-relaxed max-w-2xl mx-auto">
       Some of my recent programming and design work.
     </p>
 
@@ -56,8 +56,8 @@
                hover:shadow-xl hover:-translate-y-2
                transition duration-300 cursor-pointer text-left"
       >
-        <h3 class="text-xl font-semibold text-[#011E6C] mb-3">Todo App</h3>
-        <p class="text-gray-600 text-sm leading-relaxed">
+        <h3 class="font-poppins font-semibold text-xl text-[#011E6C] mb-3">Todo App</h3>
+        <p class="font-poppins font-Medium text-gray-600 text-sm leading-relaxed">
           A modern task management app built using HTML, Tailwind CSS, and JavaScript.
         </p>
       </div>
@@ -70,8 +70,8 @@
                hover:shadow-xl hover:-translate-y-2
                transition duration-300 cursor-pointer text-left"
       >
-        <h3 class="text-xl font-semibold text-[#011E6C] mb-3">Calculator</h3>
-        <p class="text-gray-600 text-sm leading-relaxed">
+        <h3 class=" font-poppins font-semibold text-xl text-[#011E6C] mb-3">Calculator</h3>
+        <p class="font-poppins font-Medium text-gray-600 text-sm leading-relaxed">
           A functional calculator with a clean UI built using HTML, CSS, and JavaScript.
         </p>
       </div>
@@ -84,8 +84,8 @@
                hover:shadow-xl hover:-translate-y-2
                transition duration-300 cursor-pointer text-left"
       >
-        <h3 class="text-xl font-semibold text-[#011E6C] mb-3">Design Projects</h3>
-        <p class="text-gray-600 text-sm leading-relaxed">
+        <h3 class="font-poppins font-semibold text-xl text-[#011E6C] mb-3">Design Projects</h3>
+        <p class="font-poppins font-Medium text-gray-600 text-sm leading-relaxed">
           Branding, social media visuals, and UI layouts showcased on my Behance profile.
         </p>
       </div>

@@ -15,13 +15,13 @@
   <div class="max-w-3xl mx-auto px-6 text-center space-y-6">
 
     <!-- Title -->
-    <h2 class="text-4xl md:text-5xl font-bold 
+    <h2 class="text-4xl md:text-5xl font-poppins font-bold 
                bg-gradient-to-r from-[#FFFFFF] to-[#DFDFDF]
                bg-clip-text text-transparent">
       Contact Me
     </h2>
 
-    <p class="text-gray-300 text-2xl">Let’s be in touch</p>
+    <p class="font-poppins font-Medium text-gray-300 text-2xl">Let’s be in touch</p>
 
     <!-- ICON BUTTONS -->
     <div class="flex items-center justify-center gap-6 pt-8 flex-wrap">
@@ -131,7 +131,7 @@
   <span 
     class="opacity-0 group-hover:opacity-100 
            transition-all duration-500 ease-[cubic-bezier(0.16,1,0.3,1)]
-           whitespace-nowrap pl-6 text-white font-bold text-[15px]">
+           whitespace-nowrap pl-4 text-white font-semibold text-[15px]">
     +964 775 565 8593
   </span>
 
