@@ -55,7 +55,7 @@
 
      <!-- Download CV (Border Blue + Hover Gradient) -->
 <!-- Download CV (Smooth Transition) -->
-<a href="https://drive.google.com/file/d/1Ns5dgEsToMufwIVVHtkovRkdy4-4mvrL/view?usp=sharing" 
+<a href="https://drive.google.com/file/d/1c6dcNWXG0SC2TNHtCoshsPW0JZyEk4ft/view?usp=sharing" 
    target="_blank" 
    class="hero-btn px-8 py-3 rounded-full font-poppins font-bold 
                border-2 border-[#011E6C] text-[#011E6C]

@@ -31,11 +31,11 @@
   <div class="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
 
     <!-- Logo -->
-    <div 
+    <a href="#home"
       style="font-family: 'Sooner'"
       class="text-3xl font-bold tracking-wider cursor-pointer text-[#FFB74D]">
       Prestige
-    </div>
+    </a>
 
     <!-- Desktop Links -->
     <ul class="hidden md:flex items-center space-x-4">
